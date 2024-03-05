@@ -1,4 +1,4 @@
-[![Netlify](https://api.netlify.com/api/v1/badges/3e736a66-8d43-4969-9180-273c25034eaf/deploy-status)](https://app.netlify.com/sites/solprac/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e736a66-8d43-4969-9180-273c25034eaf/deploy-status)](https://app.netlify.com/sites/solprac/deploys)
 
 # Getting Started
 
