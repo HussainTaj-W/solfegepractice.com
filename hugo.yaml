@@ -1,0 +1,138 @@
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+baseURL: "https://solfegepractice.com/"
+title: Solfege Practice
+paginate: 10
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+
+# googleAnalytics: UA-123-45
+
+services:
+  googleAnalytics:
+    ID: G-EEXVG6PK20
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: $ENV
+  title: Solfege Practice
+  description: >
+    Enhance your musical learning with solfege. Identify and improve your pitch recognition skills with
+    our intuitive interface and advanced technology. Perfect for musicians,
+    vocalists, and music students. Try it now and elevate your musical performance!
+  keywords: [solfege, solfa, solfeggio, do re mi, sol-fa, practice, learn, pitch detector, solfege, singing pitch recognition, pitch training app, music education, vocal training, pitch accuracy, music app, musicians, vocalists, music students]
+  hideFooter: true
+  # author: Hussain Taj
+  # author: ["Me", "You"] # multiple authors
+  images:
+    - https://i.ibb.co/MSfQ7qb/card.png
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/images/icons/favicon.ico"
+    favicon16x16: "/images/icons/favicon-16x16.png"
+    favicon32x32: "/images/icons/favicon-32x32.png"
+    apple_touch_icon: "/images/icons/apple-icon.png"
+    safari_pinned_tab: "/images/icons/favicon-16x16.png"
+
+  label:
+    text: " "
+    icon: /images/icons/favicon-32x32.png
+    iconHeight: 32
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Solfege Practice
+    subtitle: "🎵Train you vocal chords!🎶"
+    imageUrl: "/images/icons/apple-icon-120x120.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Solfege Practice Logo
+    buttons:
+      - name: See Lessons
+        url: /lessons
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  # socialIcons:
+  #   - name: Play Store
+  #     url: "https://play.google.com/store/apps/details?id=com.solfegepractice.app"
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: get app
+      name: Get The (Beta) App
+      url: https://play.google.com/store/apps/details?id=com.solfegepractice.app
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
