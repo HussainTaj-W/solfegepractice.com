@@ -9,6 +9,7 @@ showToc: false
 ShowReadingTime: false
 ShowWordCount: false
 disableShare: true
+robotsNoIndex: true
 ---
 
 

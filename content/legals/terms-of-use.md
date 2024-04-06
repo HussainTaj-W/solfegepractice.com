@@ -9,6 +9,7 @@ showToc: false
 showReadingTime: false
 showWordCount: false
 disableShare: true
+robotsNoIndex: true
 ---
 
 Please read these Terms of Use ("Terms") carefully before using Solfege Practice ("the App").

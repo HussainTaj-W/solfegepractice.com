@@ -1,7 +1,7 @@
 ---
 title: Introduction
-description: Solfege elevates musical abilities through structured ear training and pitch comprehension.
-summary: Solfege elevates musical abilities through structured ear training and pitch comprehension.
+description: Solfege is a system used for ear training and pitch comprehension.
+summary: Solfege is a system used for ear training and pitch comprehension.
 categories: [lessons]
 series: ["What is Solfege?"]
 keywords: [solfege, ear training, pitch comprehension, music education, do re mi, solmization, solfeggio, solfa, solfeo, tonic sol-fa, kodály method, takadimi, jianpu, musical notation, harmony, melody, musician, music theory]
@@ -10,17 +10,21 @@ weight: 1
 
 ## Brief Overview of Solfege
 
-Welcome to the world of solfege – a powerful musical tool that enhances your ear training and understanding of pitch relationships. Whether you're a beginner exploring the magic of music or an experienced musician looking to refine your skills, this guide is here to help you.
+Solfege is a system that teaches the relationship between different musical pitches or notes.
+It is often used to teach sight singing and ear training. The process involves assigning different
+syllables to different notes on a musical scale.
 
 {{< youtube SRnkKWDAShM >}}
 
 
-## Importance of Ear Training in Music
+## Ear Training in Music
 
-Solfege is a time-tested method that assigns syllables to musical notes, helping you internalize and reproduce melodies accurately. From the foundational "do, re, mi" to advanced sequences, solfege acts as a bridge between musical notation and your vocal or instrumental performance.
+If you aspire to be a musician or singer, ear training is a fundamental practice.
+Ear training (also known as aural skills) allows you to perceive, identify, and understand various elements of music solely by listening.
 
-The ability to hear and recognize pitches is fundamental to becoming a proficient musician. Solfege not only trains your ear but also provides a structured approach to understanding the nuances of melody and harmony. Whether you aspire to sing, play an instrument, or compose, mastering solfege will undoubtedly elevate your musical journey.
-
+Have you ever wondered how some talented musicians can hear a melody once and then play it on their instrument without effort?
+It's thanks to their amazing aural skills. Anyone can learn these skills and even develop a deeper understanding
+of music.
 
 ---
 

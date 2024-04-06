@@ -27,11 +27,9 @@ params:
   description: >
     Enhance your musical learning with solfege. Identify and improve your pitch recognition skills with
     our intuitive interface and advanced technology. Perfect for musicians,
-    vocalists, and music students. Try it now and elevate your musical performance!
-  keywords: [solfege, solfa, solfeggio, do re mi, sol-fa, practice, learn, pitch detector, solfege, singing pitch recognition, pitch training app, music education, vocal training, pitch accuracy, music app, musicians, vocalists, music students]
+    vocalists, and music students. Try it now.
+  keywords: [solfege, solfa, solfeggio, do re mi, sol-fa, practice, learn, pitch detector, app, singing, pitch training app, music education, training, pitch, musicians, vocalists, students]
   hideFooter: true
-  # author: Hussain Taj
-  # author: ["Me", "You"] # multiple authors
   images:
     - https://i.ibb.co/MSfQ7qb/card.png
   DateFormat: "January 2, 2006"
