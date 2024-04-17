@@ -6,6 +6,7 @@ categories: [lessons]
 keywords: [resources]
 weight: 6
 robotsNoIndex: true
+draft: true
 ---
 
 - [Solfege Practice App](https://play.google.com/store/apps/details?id=com.solfegepractice.app)
