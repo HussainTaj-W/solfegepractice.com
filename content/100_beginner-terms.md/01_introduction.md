@@ -40,9 +40,9 @@ You can sing the major scale in solfege, ascending and descending, using a fixed
 
 {{< youtube SRnkKWDAShM >}}
 
-> Do-Re-Mi is the most common syllables set used in the world. However, you will find different cultures and institutions using different symbols. For example, you may come across "1, 2, 3, 4, 5, 6, 7, 1" or "Sa, Ray, Ga, Ma, Pa, Da Ni, Sa". In our guides, we will use Do-Re-Mi but you may choose whichever you prefer.
 
-> Our app allows you to customize your experience. You can select the key, scale, and syllables of your choice. You can learn more about the app in our ["Using the App"]({{< relref "using-the-app" >}}) lesson. 
+
+> Our app allows you to customize your experience. You can select the key, scale, and syllables of your choice. You can learn more about the app in our ["Using the App"]({{< relref "04_using-the-app" >}}) lesson. 
 
  
 ## Movable Do vs Fixed Do
@@ -68,30 +68,9 @@ You can sing these songs using solfege syllables, improving your ear training an
 
 {{< youtube G8fVzArMpG4 >}}
 
+## More About Syllables
 
-## The Full Syllable List
-
-You might be wondering what to do if a note (sound) is between C and D, like C♯ or D♭. Well, here's a complete list for your convenience.
-
-| Syllable | Pronounced | Note | Semitones |
-| ---      | ---        | ---  | ---       |
-| **Do**   | _doh_      | C    | 1         |
-| **Di**   | _dee_      | C♯   | 2         |
-| **Ra**   | _rah_      | D♭   | 2         |
-| **Re**   | _ray_      | D    | 3         |
-| **Ri**   | _ree_      | D♯   | 4         |
-| **Me**   | _may_      | E♭   | 4         |
-| **Mi**   | _mee_      | E    | 5         |
-| **Fa**   | _fah_      | F    | 6         |
-| **Fi**   | _fee_      | F♯   | 7         |
-| **Se**   | _say_      | G♭   | 7         |
-| **So**   | _soo_      | G    | 8         |
-| **Si**   | _see_      | G♯   | 9         |
-| **Le**   | _lay_      | A♭   | 9         |
-| **La**   | _lah_      | A    | 10        |
-| **Li**   | _lee_      | A♯   | 11        |
-| **Te**   | _tay_      | B♭   | 11        |
-| **Ti**   | _tee_      | B    | 12        |
+You might be wondering what to do if a note (sound) is between C and D, like C♯ or D♭. Well, we talk more about advanced solfege in our lesson [Advance Solfege Syllables]({{< relref "05_advanced-solfege" >}}).
 
 ---
 
