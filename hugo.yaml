@@ -2,7 +2,6 @@ module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
 
-baseURL: "https://solfegepractice.com/"
 title: Solfege Practice
 paginate: 10
 enableRobotsTXT: true
