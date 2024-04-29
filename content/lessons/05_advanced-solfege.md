@@ -1,25 +1,25 @@
 ---
 title: Advance Solfege Syllables
 slug: advance-solfege-syllables
-description: In this lesson you'll go through three exercises to practice the syllables and notes, and learn the relation between them.
-summary: Go through three exercises to practice the syllables and notes, and learn the relation between them.
+description: In this lesson, you'll learn more about solfege syllables and their advanced use cases.
+summary: Learn more about solfege syllables and their advanced use cases.
 categories: [lessons]
 series: ["What is Solfege?"]
-keywords: [solfege, ear training, pitch comprehension, music education, do re mi, solfeggio, solfa, melody, musician, music theory, solfege syllables, major scale]
+keywords: [solfege, do re mi, solfeggio, solfa, syllables, advanced]
 weight: 5
 cover:
-  image: /images/lessons/lesson-02-cover-pixabay.jpg
+  image: /images/lessons/lesson-05-cover-pixabay.jpg
   caption:
-  alt: a image with music sheets and a sunflower
+  alt: A image with music sheets on a piano.
 ---
 
 
-Do-Re-Mi is the most common syllables set used in the world. However, you will find different cultures and institutions using different symbols. For example, you may come across "1, 2, 3, 4, 5, 6, 7, 1" or "Sa, Ray, Ga, Ma, Pa, Da Ni, Sa". In our guides, we will use Do-Re-Mi but you may choose whichever you prefer.
+Do-Re-Mi is the most common syllable set used in the world. However, you will find different cultures and institutions using different symbols. For example, you may come across "1, 2, 3, 4, 5, 6, 7, 1" or "Sa, Ray, Ga, Ma, Pa, Da Ni, Sa". In our guides, we will use Do-Re-Mi but you may choose whichever you prefer.
 
 
 ## The Full Syllable List
 
-Here's a list of solfege syllables and how they relate to semitones. We've used key C as an example for the started point of the scale, though, you may choose anything note and the pattern will remain the same.
+Here's a list of solfege syllables and how they relate to semitones. We've used key C as an example for the starting point of the scale, though, you may choose anything note and the pattern will remain the same.
 
 | Syllable | Pronounced | Note | Semitones |
 | ---      | ---        | ---  | ---       |
@@ -41,4 +41,4 @@ Here's a list of solfege syllables and how they relate to semitones. We've used 
 | **Te**   | _tay_      | B♭   | 11        |
 | **Ti**   | _tee_      | B    | 12        |
 
-A fascinating thing to _note_ is how some semitones have multiple syllables. For example, a note with 2 semitones can either be a **Di** or **Ra**. Different systems might prefer one or the other. However, our app tries to keep the functional relation between the notes consistent. If the note is a sharp, we use **Di**; otherwise we use **Ra**. 
+A fascinating thing to _note_ is how some semitones have multiple syllables. For example, a note with 2 semitones can either be a **Di** or **Ra**. Different systems might prefer one or the other. However, our app tries to keep the functional relation between the notes consistent. If the note is sharp, we use **Di**; otherwise, we use **Ra**. 

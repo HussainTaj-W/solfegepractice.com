@@ -1,16 +1,16 @@
 ---
 title: What is Solfege and Why is it Useful?
 slug: what-is-solfege-and-why-is-it-useful
-description: In this lesson you'll learn about the solfege method, its syllables, its benefits, understand the difference between movable and fixed Do systems, and how they're used in real songs.
-summary: You'll learn about the solfege method, its syllables, its benefits, understand the difference between movable and fixed Do systems, and how they're used in real songs.
+description: In this lesson, you'll learn about the solfege method and syllables, understand the difference between movable and fixed Do systems, and how they're used in real songs.
+summary: You'll learn about the solfege method and syllables, understand the difference between movable and fixed Do systems, and how they're used in real songs.
 categories: [lessons]
 series: ["What is Solfege?"]
-keywords: [solfege, ear training, pitch comprehension, music education, do re mi, solfeggio, solfa, melody, musician, music theory, solfege syllables, major scale]
+keywords: [solfege, pitch comprehension, music education, do re mi, solfeggio, solfa, music theory, solfege syllables, major scale]
 weight: 1
 cover:
   image: /images/lessons/lesson-01-cover-pixabay.jpeg
   caption: The keys in this piano are labeled with solfege syllables.
-  alt: a piano with 8 keys labeled with solfege syllables
+  alt: A piano with 8 keys labeled with solfege syllables.
 ---
 
 ## Solfege and Its Benefits
@@ -22,7 +22,7 @@ Using solfege during lessons and practice time has several benefits. These inclu
 
 ## The Basic Solfege Syllables
 
-The solfege system has a specific symbol for every note in a scale. For example, if we look at the C major scale, we will see a certain group of notes played in this sequence: _C, D, E, F, G, A, B, C_. The syllables used to sing and write the notes of a major scale in solfege are: 
+The solfege system has a specific symbol for every note on a scale. For example, if we look at the C major scale, we will see a certain group of notes played in this sequence: _C, D, E, F, G, A, B, C_. The syllables used to sing and write the notes of a major scale in solfege are: 
 
 
 | Syllable | Pronounced | Note |

@@ -1,16 +1,16 @@
 ---
 title: Three Exercises for Practicing Solfege
 slug: exercises-for-practicing-solfege
-description: In this lesson you'll go through three exercises to practice the syllables and notes, and learn the relation between them.
+description: In this lesson, you'll go through three exercises to practice the syllables and notes, and learn the relation between them.
 summary: Go through three exercises to practice the syllables and notes, and learn the relation between them.
 categories: [lessons]
 series: ["What is Solfege?"]
-keywords: [solfege, ear training, pitch comprehension, music education, do re mi, solfeggio, solfa, melody, musician, music theory, solfege syllables, major scale]
+keywords: [solfege, practice, exercises, pentatonic scale, major, minor, ear training, pitch comprehension, music education, do re mi, solfeggio, solfa, learn singing]
 weight: 2
 cover:
   image: /images/lessons/lesson-02-cover-pixabay.jpg
   caption:
-  alt: a image with music sheets and a sunflower
+  alt: An image with music sheets and a sunflower.
 ---
 
 ## Exercise 1: Major Pentatonic Scale
@@ -73,3 +73,5 @@ Were you able to figure it out? The answer is, if you were to choose B minor, th
 Exercise 3 is one of the most common practices for solfege, the “Do Re Mi” method. If you're new to this kind of vocal exercise, it's a great place to begin. This exercise starts with three rising notes and then progresses to have different notes and syllables. For example, we would start with “Do” and ascend as we sing the following: “Re, Mi, Fa, Sol, La, Ti, Do.” The way the notes move in this exercise feels natural, and it shouldn’t take you too long to become familiar with the melody. 
 
 This simple exercise can help you warm up your voice when you’ve progressed to some of the more challenging solfege. 
+
+<!-- TODO: add video example. -->
