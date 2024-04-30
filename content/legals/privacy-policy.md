@@ -35,6 +35,8 @@ The App may use cookies to enhance user experience. Users have the option to dis
 
 The App may integrate with third-party services, such as analytics providers, for the purpose of improving functionality. These third-party services may have their own privacy policies governing the use of data.
 
+We partner with Microsoft Clarity, Microsoft Advertising, and Google Analytics to capture how you use and interact with our website and app through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website/app usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-US/privacystatement) and [Google Policy](https://policies.google.com/technologies/partner-sites).
+
 ## Data Security
 
 We take reasonable precautions to protect the data collected by the App. However, we cannot guarantee the security of information transmitted over the internet or stored electronically.
