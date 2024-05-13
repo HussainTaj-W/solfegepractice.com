@@ -13,11 +13,39 @@ cover:
   alt: An illustration of a grand piano.
 ---
 
-Everyone has seen a piano in one form or another. If you can recognize a piano when you see it, you're ready to read this article. We will use the Piano as an example to demonstrate different concepts.
+Everyone has seen a piano in one form or another. If you can recognize a piano when you see it, you're ready to read this article. We will use the piano as an example to demonstrate different concepts. That being said, this knowledge applies to all types of instruments that follow the Western music style.
 
 ## Note
 
 A note is a single sound in a musical composition (song). When you press a single key on the piano, you play a specific note.
+
+In Western music, there are 12 notes. The following image shows the piano buttons labeled with their corresponding notes.
+
+{{<
+    figure
+    src="/images/posts/post01-note.svg"
+    alt="An illustration of piano keys labels with notes."
+    caption="Piano buttons labeled with their corresponding notes."
+    align=center
+>}}
+
+
+> Did you realize something? Yes! The piano has a repeating pattern. This pattern consists of 12 repeating buttons.
+
+
+## Octave
+
+Remember the group of 12 notes we talked about earlier? That group is an octave.
+
+{{<
+    figure
+    src="/images/posts/post01-octave.svg"
+    alt="An illustration of piano keys labels with notes."
+    caption="Piano buttons labeled with their corresponding notes."
+    align=center
+>}}
+
+> The technical definition of an octave is a bit tricky to explain right now, we'll leave it for you to discover on your own.
 
 ## Key
 
@@ -25,15 +53,32 @@ In a piano, all the buttons are also known as keys. However, in a musical compos
 
 ## Interval
 
-An interval is the difference in the frequency of any two notes.
+An interval is the difference in the frequency of any two notes. This forms the basis of what a tone and semitone are.
 
 ## Semintone
 
-A semitone is the smallest position interval. On a piano, this will be the difference between two adjacent keys.
+A semitone is the smallest possible interval. On a piano, this will be the difference between two adjacent buttons.
+
+{{<
+    figure
+    src="/images/posts/post01-semitone.svg"
+    alt="An illustration of piano keys labels with notes."
+    caption="Piano buttons labeled with their corresponding notes."
+    align=center
+>}}
 
 ## Tone
 
-A tone is an interval of two semitones. 
+A tone is an interval of two semitones.
+
+{{<
+    figure
+    src="/images/posts/post01-tone.svg"
+    alt="An illustration of piano keys labels with notes."
+    caption="Piano buttons labeled with their corresponding notes."
+    align=center
+>}}
+
 
 ## Scale
 
