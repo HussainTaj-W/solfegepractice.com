@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>post1</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffffff" height="300" id="svg_4" stroke="#000000" stroke-width="0" width="500" x="0" y="0"/>
+  <rect fill="#ffffff" height="200" id="svg_1" rx="5" ry="5" stroke="#212121" width="40" x="50" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_6" rx="5" ry="5" stroke="#212121" width="40" x="90" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_7" rx="5" ry="5" stroke="#212121" width="40" x="130" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_8" rx="5" ry="5" stroke="#212121" width="40" x="170" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_9" rx="5" ry="5" stroke="#212121" width="40" x="210" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_14" rx="5" ry="5" stroke="#212121" width="40" x="250" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_13" rx="5" ry="5" stroke="#212121" width="40" x="290" y="40">F♯ G♭F♯ G♭</rect>
+  <rect fill="#000000" height="100" id="svg_15" rx="5" ry="5" stroke="#212121" width="20" x="80" y="40"/>
+  <rect fill="#000000" height="100" id="svg_16" rx="5" ry="5" stroke="#212121" width="20" x="120" y="40"/>
+  <rect fill="#000000" height="100" id="svg_17" rx="5" ry="5" stroke="#212121" width="20" x="200" y="40"/>
+  <rect fill="#000000" height="100" id="svg_18" rx="5" ry="5" stroke="#212121" width="20" x="240" y="40"/>
+  <rect fill="#000000" height="100" id="svg_19" rx="5" ry="5" stroke="#212121" width="20" x="280" y="40"/>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_56" stroke="#000000" stroke-width="0" text-anchor="middle" x="70" xml:space="preserve" y="270">C</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_57" stroke="#000000" stroke-width="0" text-anchor="middle" x="110" xml:space="preserve" y="270">D</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_58" stroke="#000000" stroke-width="0" text-anchor="middle" x="150" xml:space="preserve" y="270">E</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_59" stroke="#000000" stroke-width="0" text-anchor="middle" x="190" xml:space="preserve" y="270">F</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_60" stroke="#000000" stroke-width="0" text-anchor="middle" x="230" xml:space="preserve" y="270">G</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_61" stroke="#000000" stroke-width="0" text-anchor="middle" x="270" xml:space="preserve" y="270">A</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_62" stroke="#000000" stroke-width="0" text-anchor="middle" x="310" xml:space="preserve" y="270">B</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_63" stroke="#000000" stroke-width="0" text-anchor="middle" x="90" xml:space="preserve" y="30">C♯ D♭</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_64" stroke="#000000" stroke-width="0" text-anchor="middle" x="130" xml:space="preserve" y="30">D♯ E♭</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_65" stroke="#000000" stroke-width="0" text-anchor="middle" x="210" xml:space="preserve" y="30">F♯ G♭</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" x="250" xml:space="preserve" y="30">G♯ A♭</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" x="290" xml:space="preserve" y="30">A♯ B♭</text>
+  <ellipse cx="70" cy="220" fill="#007f3f" id="svg_10" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="110" cy="220" fill="#007f3f" id="svg_11" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="130" cy="120" fill="#007f3f" id="svg_12" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="190" cy="220" fill="#007f3f" id="svg_20" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="230" cy="220" fill="#007f3f" id="svg_21" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="250" cy="120" fill="#007f3f" id="svg_22" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <rect fill="#ffffff" height="200" id="svg_53" rx="5" ry="5" stroke="#212121" width="40" x="330" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_52" rx="5" ry="5" stroke="#212121" width="40" x="370" y="40"/>
+  <rect fill="#ffffff" height="200" id="svg_51" rx="5" ry="5" stroke="#212121" width="40" x="410" y="40"/>
+  <rect fill="#000000" height="100" id="svg_46" rx="5" ry="5" stroke="#212121" width="20" x="360" y="40"/>
+  <rect fill="#000000" height="100" id="svg_45" rx="5" ry="5" stroke="#212121" width="20" x="400" y="40"/>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_41" stroke="#000000" stroke-width="0" text-anchor="middle" x="350" xml:space="preserve" y="270">C</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_40" stroke="#000000" stroke-width="0" text-anchor="middle" x="390" xml:space="preserve" y="270">D</text>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_39" stroke="#000000" stroke-width="0" text-anchor="middle" x="430" xml:space="preserve" y="270">E</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_34" stroke="#000000" stroke-width="0" text-anchor="middle" x="370" xml:space="preserve" y="30">C♯ D♭</text>
+  <text fill="#000000" font-family="Fantasy" font-size="12" id="svg_33" stroke="#000000" stroke-width="0" text-anchor="middle" x="410" xml:space="preserve" y="30">D♯ E♭</text>
+  <ellipse cx="350" cy="220" fill="#007f3f" id="svg_29" rx="10" ry="10" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="290" cy="120" fill="#007f3f" id="svg_54" rx="10" ry="10" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+ </g>
+</svg>

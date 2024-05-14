@@ -121,6 +121,14 @@ params:
 
 menu:
   main:
+    - identifier: lessons
+      name: Lessons
+      url: lessons
+      weight: 10
+    - identifier: blog posts
+      name: Blog
+      url: posts
+      weight: 20
     - identifier: get app
       name: Get The (Beta) App
       url: https://play.google.com/store/apps/details?id=com.solfegepractice.app

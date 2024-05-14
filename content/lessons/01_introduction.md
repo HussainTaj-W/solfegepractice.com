@@ -13,6 +13,8 @@ cover:
   alt: A piano with 8 keys labeled with solfege syllables.
 ---
 
+> If you are new to music, we highly recommend reading our blog post [Music Theory Basics]({{<relref "posts/001_music_theory_basics">}}) first.
+
 ## Solfege and Its Benefits
 
 Solfege is the French word for a **music education method** that teaches skills such as ear training, tone, and reading music by sight in Western music. This conventional method may have other names, such as solfeggio (sol-fa, solfa, solfeo).
