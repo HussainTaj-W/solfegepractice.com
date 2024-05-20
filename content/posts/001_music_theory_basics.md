@@ -88,16 +88,22 @@ A tone is an interval of two semitones.
     align=center
 >}}
 
+For example, the interval between D and E is a tone. Notice that there is a black button between the white keys representing D and E notes.
+
 
 ## Scale
 
-A scale is a group of notes. The notes group often has a base note called the key. The notes of this group are picked using some set of rules.
+A scale is a group/collection of notes. This notes group often has a base note called the key. The notes of this group are picked using some set of rules. These rules can be anything and do not need to follow any system. That being said, in practice the rules we choose are based on melodies and harmonies.
+
 
 There are many scales for you to explore. We'll start with the most common and widely recognized scales: the major scale and the minor scale. We'll present them in the key of C to keep things simple.
 
 ### Major Scale
 
 The rule for this scale is that the intervals between the adjacent notes of the scale are: `tone - tone - semitone - tone - tone - tone - semitone`.
+
+
+#### Example: Major Scale with key C
 
 If the keynote was selected as `C`, the scale notes would be `C, D, E, F, G, A, B, C`. The second `C` is in the higher octave.
 
@@ -109,6 +115,23 @@ If the keynote was selected as `C`, the scale notes would be `C, D, E, F, G, A, 
     caption="An illustration of the major scale in the key of C on piano."
     align=center
 >}}
+
+
+Let me explain how this order of notes follows the rule we laid out earlier. See the following table and you'll understand the pattern.
+
+| Notes | Interval |
+| --- | --- |
+| C - D | tone |
+| D - E | tone |
+| E - F | semitone |
+| F - G | tone |
+| G - A | tone |
+| A - B | tone |
+| B - C | semitone |
+
+
+#### Example: Major Scale with key D
+
 
 
 If the keynote was selected as `D`, the scale notes would be `D, E, F#, G, A, B, C#, D`.
