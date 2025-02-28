@@ -28,7 +28,7 @@ Once you have found your suspected note, identify the closest note to the one yo
 
 ### Step 2: Sing the Scale
 
-The key you identified above will be the starting note of the pentatonic scale that you will sing. Remember, the pentatonic scale has the starting note, the 2nd, 3rd, 5th, and 6th of the complete major scale. For example, C, D, E, G, and A are the C  major pentatonic scale notes so you would sing Do, Re, Mi, Sol, La.
+The key you identified above will be the starting note of the pentatonic scale that you will sing. Remember, the pentatonic scale has the starting note, the 2nd, 3rd, 5th, and 6th of the complete major scale. For example, C, D, E, G, and A are the C major pentatonic scale notes so you would sing Do, Re, Mi, Sol, La.
 
 Here is the Major Pentatonic scale in the key of C:
 
@@ -40,7 +40,23 @@ Here is the Major Pentatonic scale in the key of C:
 | **Sol**   | G    |
 | **La**    | A    |
 
-After picking a suitable key, sing each note in the scale with the above syllables in an upward or ascending pattern, then down the scale when you reach the last note. Over time, with much practice, you will develop a good ear for the pentatonic scale, which help you learn some of the solfege sounds.
+> You can use a pitch detector app to check if you're hitting the notes right. ["Our app"]({{< relref "04_using-the-app" >}}) also provides this feature.
+
+### Step 3: Practice Patterns
+
+Start by singing the scale in these different patterns to build flexibility:
+
+1. **Ascending and Descending**: Sing up the scale (Do, Re, Mi, Sol, La) and then back down (La, Sol, Mi, Re, Do).
+
+2. **Skipping Notes**: Practice jumping between non-adjacent notes, such as Do-Mi-Sol-La-Sol-Mi-Do.
+
+3. **Interval Training**: Sing pairs of notes to train your ear for specific intervals:
+   - Do-Re (major 2nd)
+   - Do-Mi (major 3rd)
+   - Do-Sol (perfect 5th)
+   - Re-La (perfect 5th)
+
+Try to sing each pattern slowly at first, then gradually increase your speed as you become more comfortable. Over time, with consistent practice, you will develop a good ear for the pentatonic scale, which will help you internalize these important solfege sounds.
 
 <!-- TODO: add video example. -->
 
@@ -51,9 +67,25 @@ This exercise is similar to the first one. But instead of using the major pentat
 
 Minor pentatonic scales have the 1st, 3rd, 4th, 5th, and 6th notes of the complete minor scale, which sound more melancholic than the major ones. It's important to learn solfege in the minor pentatonic scale. This helps you improve your musical awareness and avoid getting too used to the sound of the major scale.
 
-Use the same method to pick the root note, then sing the solfege syllables with the notes of the minor pentatonic scale. Take a look at the minor pentatonic scale and then pretend you are choosing B minor as your root note. What would be the solfege notes you sing according to our steps?
+### Step 1: Find Your Minor Key
 
-Here is the Minor Pentatonic scale in the key of B:
+Use the same method as Exercise 1 to pick a comfortable root note, but this time we'll be working with the minor pentatonic scale. If you're not sure which key to choose, try starting with A minor, which uses all natural notes (no sharps or flats).
+
+### Step 2: Learn the Minor Syllables
+
+The minor pentatonic scale uses slightly different syllables than the major scale. Notice how some syllables change to reflect the flattened notes in a minor scale:
+
+Here is the Minor Pentatonic scale in the key of A:
+
+| Syllable  | Note |
+| ---       | ---  |
+| **La**    | A    |
+| **Do**    | C    |
+| **Re**    | D    |
+| **Mi**    | E    |
+| **Sol**   | G    |
+
+And here's another example in the key of B minor:
 
 | Syllable  | Note |
 | ---       | ---  |
@@ -63,15 +95,50 @@ Here is the Minor Pentatonic scale in the key of B:
 | **So**    | F#   |
 | **Te**    | A    |
 
+> You can use a pitch detector app to check if you're hitting the notes right. ["Our app"]({{< relref "04_using-the-app" >}}) also provides this feature.
 
-Were you able to figure it out? The answer is, if you were to choose B minor, the pentatonic scale would be B, D, E, F# (# equals sharp), and A because we are matching the 1st, 3rd, 4th, 5th, and 6th notes of the complete minor scale. Therefore, our exercise would be to sing Do, Me, Fa, So, Te. 
+### Step 3: Compare Major and Minor
+
+A powerful exercise is to alternate between the major and minor pentatonic scales with the same root note. For example, if you're working with C:
+
+1. Sing the C major pentatonic: Do-Re-Mi-Sol-La
+2. Then sing the C minor pentatonic: Do-Me-Fa-So-Te
+3. Notice how the change in just a few notes creates a completely different emotional quality
+
+This comparison will train your ear to recognize the distinctive sound of minor scales and help you develop greater musical sensitivity.
 
 <!-- TODO: add video example. -->
 
-## Exercise 3: The “Do, Re, Mi” Method
+## Exercise 3: Solfege Ladder Drill
 
-Exercise 3 is one of the most common practices for solfege, the “Do Re Mi” method. If you're new to this kind of vocal exercise, it's a great place to begin. This exercise starts with three rising notes and then progresses to have different notes and syllables. For example, we would start with “Do” and ascend as we sing the following: “Re, Mi, Fa, Sol, La, Ti, Do.” The way the notes move in this exercise feels natural, and it shouldn’t take you too long to become familiar with the melody. 
+Exercise 3 builds on the traditional "Do, Re, Mi" method but adds a structured approach to help you master the relationships between notes. This ladder drill is excellent for beginners while still being challenging enough for more experienced musicians.
 
-This simple exercise can help you warm up your voice when you’ve progressed to some of the more challenging solfege. 
+### Step 1: The Basic Ladder
+
+Start with the simplest form of the ladder:
+1. Sing "Do-Re-Do" (up one step, back down)
+2. Then "Do-Re-Mi-Re-Do" (up two steps, back down)
+3. Continue adding one note at a time: "Do-Re-Mi-Fa-Mi-Re-Do"
+4. Keep extending until you reach the full octave: "Do-Re-Mi-Fa-Sol-La-Ti-Do-Ti-La-Sol-Fa-Mi-Re-Do"
+
+This gradual building helps you internalize each new note in relation to the ones you've already mastered.
+
+> You can use a pitch detector app to check if you're hitting the notes right. ["Our app"]({{< relref "04_using-the-app" >}}) also provides this feature.
+
+### Step 2: Interval Jumps
+
+Once comfortable with the basic ladder, try these variations:
+1. **Third Jumps**: "Do-Mi-Do", "Re-Fa-Re", "Mi-Sol-Mi", etc.
+2. **Fourth Jumps**: "Do-Fa-Do", "Re-Sol-Re", "Mi-La-Mi", etc.
+3. **Fifth Jumps**: "Do-Sol-Do", "Re-La-Re", "Mi-Ti-Mi", etc.
+
+### Step 3: Mixed Pattern Challenge
+
+For a more advanced exercise, try this mixed pattern that combines steps and jumps:
+1. "Do-Mi-Sol-Do-Sol-Mi-Do" (ascending thirds)
+2. "Do-Fa-La-Do-La-Fa-Do" (ascending fourths)
+3. "Do-Mi-Sol-Ti-Do-Ti-Sol-Mi-Do" (ascending thirds with seventh)
+
+This exercise develops your ability to navigate the scale with precision and confidence, making it easier to sight-sing and recognize intervals by ear.
 
 <!-- TODO: add video example. -->
